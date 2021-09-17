@@ -1,0 +1,10 @@
+C:\Users\Yusuf\OneDrive\BADesign\Week 3\Payroll With Overtime\bin\Debug\Payroll With Overtime.exe.config
+C:\Users\Yusuf\OneDrive\BADesign\Week 3\Payroll With Overtime\bin\Debug\Payroll With Overtime.exe
+C:\Users\Yusuf\OneDrive\BADesign\Week 3\Payroll With Overtime\bin\Debug\Payroll With Overtime.pdb
+C:\Users\Yusuf\OneDrive\BADesign\Week 3\Payroll With Overtime\obj\Debug\Payroll With Overtime.csprojAssemblyReference.cache
+C:\Users\Yusuf\OneDrive\BADesign\Week 3\Payroll With Overtime\obj\Debug\Payroll_With_Overtime.Form1.resources
+C:\Users\Yusuf\OneDrive\BADesign\Week 3\Payroll With Overtime\obj\Debug\Payroll_With_Overtime.Properties.Resources.resources
+C:\Users\Yusuf\OneDrive\BADesign\Week 3\Payroll With Overtime\obj\Debug\Payroll With Overtime.csproj.GenerateResource.cache
+C:\Users\Yusuf\OneDrive\BADesign\Week 3\Payroll With Overtime\obj\Debug\Payroll With Overtime.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\OneDrive\BADesign\Week 3\Payroll With Overtime\obj\Debug\Payroll With Overtime.exe
+C:\Users\Yusuf\OneDrive\BADesign\Week 3\Payroll With Overtime\obj\Debug\Payroll With Overtime.pdb
